@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Student at university Constantine 2.
+Student at University Abdelhamid MEHRI Constantine 2, Constantine (Algeria).
 
 I build things in java (or C# these days)💚.
 
