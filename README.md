@@ -29,4 +29,4 @@ I build things in java (or C# these days)💚.
 - 💬 Ask me about spring mvc, java, c#.
 - 📫 How to reach me: ...
 - 😄 Pronouns: kaido
-- ⚡ Fun fact: I love attack on titan anime 😄.
+- ⚡ Fun fact:.
