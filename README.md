@@ -27,6 +27,5 @@ I build things in java (or C# these days)💚.
 - 👯 I’m looking to collaborate on .Net Remoting chat application.
 - 🤔 I’m looking for help with react.
 - 💬 Ask me about spring mvc, java, c#.
-- 📫 How to reach me: ...
-- 😄 Pronouns: kaido
-- ⚡ Fun fact:.
+- 📫 How to reach me: nacerkraa@gmail.com.
+- 😄 Pronouns: kaido.
