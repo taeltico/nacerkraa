@@ -22,7 +22,7 @@ I build things in java (or C# these days)💚..
 
 ✨ Highlights ✨
 
-- 🔭 I’m currently study on unversity
+- 🔭 I’m currently study on unversity.
 - 🌱 I’m currently learning machine learning using python.
 - 👯 I’m looking to collaborate on .Net Remoting chat application.
 - 🤔 I’m looking for help with react.
