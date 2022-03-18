@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 Student at University Abdelhamid MEHRI Constantine 2, Constantine (Algeria).
 
-I build things in java (or C# these days)💚.
+I build things in java (or C# these days)💚..
 
 ✨ Highlights ✨
 
