@@ -40,7 +40,7 @@ I build things in java (or C# these days)💚..
 
 ## TECH SKILLS
 <img
-  src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=DinaTaklit&width=840&height=200&skills=JavaScript,HTML,CSS,SCSS,Bootstrap,TypeScript,JSON,Python,Gulp,SASS,ReactJS,NodeJS,Shell,Flask,Batchfile"
+  src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=nacerkraa&width=840&height=200&skills=JavaScript,HTML,CSS,SCSS,Bootstrap,TypeScript,JSON,Python,Gulp,SASS,ReactJS,NodeJS,Shell,Flask,Batchfile"
 />
 
 ## Git Stats
