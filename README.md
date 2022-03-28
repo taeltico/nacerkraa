@@ -53,3 +53,29 @@ I build things in java (or C# these days)💚..
 ## My Coding activities
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nacerkraa)](https://github.com/nacerkraa/github-readme-stats)
+
+## My Portfolio 
+
+- https:/nacerkraa.me
+
+## Contact Me 
+
+
+<a href="https://www.linkedin.com/in/nacerkraa/">
+  <img align="left" alt="Nacer Kraa' LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://www.facebook.com/nacer.kraa/">
+  <img align="left" alt="Nacer KRAA | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/facebook.svg" />
+</a>
+
+
+<a href="https://github.com/nacerkraa">
+  <img align="left" alt="Nacer KRAA | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+
+<a href="https://stackoverflow.com/users/9039646/nacerkraat">
+  <img align="left" alt="Nacer KRAA | Stack Overflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/stackoverflow.svg" />
+</a>
+
+<br/>
+<br/>
