@@ -49,3 +49,7 @@ I build things in java (or C# these days)💚..
 
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nacerkraa&langs_count=8&layout=compact&bg_color=071A2C&text_color=FFFFFF" alt="nace rkraa's top langs"/>
 </p>
+
+## My Coding activities
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nacerkraa)](https://github.com/anuraghazra/github-readme-stats)
