@@ -30,6 +30,8 @@ I build things in java (or C# these days)💚..
 - 📫 How to reach me: nacerkraa@gmail.com.
 - 😄 Pronouns: kaido.
 
+![Profile views](https://komarev.com/ghpvc/?username=nacerkraa&color=d73d4e)
+
 ## SCORES & BADGES
 
 <img
