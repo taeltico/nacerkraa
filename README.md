@@ -29,7 +29,12 @@ I build things in java (or C# these days)💚..
 - 💬 Ask me about spring mvc, java, c#.
 - 📫 How to reach me: nacerkraa@gmail.com.
 - 😄 Pronouns: kaido.
--
+
+## SCORES & BADGES
+
+<img
+  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=nacerkraa&branding=false"
+/>
 
 ## Git Stats
 <p align='center'>
