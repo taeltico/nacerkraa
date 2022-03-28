@@ -38,6 +38,11 @@ I build things in java (or C# these days)💚..
   src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=nacerkraa&branding=false"
 />
 
+## TECH SKILLS
+<img
+  src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=DinaTaklit&width=840&height=200&skills=JavaScript,HTML,CSS,SCSS,Bootstrap,TypeScript,JSON,Python,Gulp,SASS,ReactJS,NodeJS,Shell,Flask,Batchfile"
+/>
+
 ## Git Stats
 <p align='center'>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=nacerkraa&bg_color=071A2C&icon_color=d73d4e&show_icons=true&count_private=true&theme=tokyonight&line_height=27&text_color=FFFFFF" alt="Dina Taklit's github stars"/>
