@@ -29,7 +29,9 @@ I build things in java (or C# these days)💚..
 - 💬 Ask me about spring mvc, java, c#.
 - 📫 How to reach me: nacerkraa@gmail.com.
 - 😄 Pronouns: kaido.
+-
 
+## Git Stats
 <p align='center'>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=nacerkraa&bg_color=071A2C&icon_color=d73d4e&show_icons=true&count_private=true&theme=tokyonight&line_height=27&text_color=FFFFFF" alt="Dina Taklit's github stars"/>
 
