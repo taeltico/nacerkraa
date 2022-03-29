@@ -64,7 +64,7 @@ I build things in java (or C# these days)💚..
 <a href="https://www.linkedin.com/in/nacerkraa/">
   <img align="left" alt="Nacer Kraa' LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://www.facebook.com/nacer.kraa/">
+<a href="https://www.facebook.com/nacerkraa/">
   <img align="left" alt="Nacer KRAA | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/facebook.svg" />
 </a>
 
