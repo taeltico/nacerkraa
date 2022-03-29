@@ -2,7 +2,7 @@ Hi, I'm [Nacer kraa](https://www.nacerkraa.me) 👋
 -------------------------------------------------------------------------------------------------------------------------------
 
 <!--
-- this commentaire ...
+- this commentaire ....
 -->
 
 Student at University Abdelhamid MEHRI Constantine 2, Constantine (Algeria).
