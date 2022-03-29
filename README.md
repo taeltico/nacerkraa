@@ -73,7 +73,7 @@ I build things in java (or C# these days)💚..
   <img align="left" alt="Nacer KRAA | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 
-<a href="https://stackoverflow.com/users/9039646/nacerkraat">
+<a href="https://stackoverflow.com/users/9039646/nacer-kraa">
   <img align="left" alt="Nacer KRAA | Stack Overflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/stackoverflow.svg" />
 </a>
 
