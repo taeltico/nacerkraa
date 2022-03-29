@@ -56,7 +56,7 @@ I build things in java (or C# these days)💚..
 
 ## My Portfolio 
 
-- https:/nacerkraa.me
+https:/nacerkraa.me
 
 ## Contact Me 
 
