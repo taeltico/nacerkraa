@@ -32,6 +32,8 @@ I build things in java (or C# these days)💚..
   src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=nacerkraa&branding=false"
 />
 
+
+
 ## TECH SKILLS
 <img
   src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=nacerkraa&width=840&height=200&skills=JavaScript,HTML,CSS,SCSS,Bootstrap,TypeScript,JSON,Python,Gulp,SASS,ReactJS,NodeJS,Shell,Flask,Batchfile"
@@ -73,3 +75,9 @@ I build things in java (or C# these days)💚..
 
 <br/>
 <br/>
+
+<div>
+  <p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=nacerkraa1903&theme=solarized-dark&theme=leafy&ring=047884&sideNums=06ACBD&dates=06ACBD&currStreakNum=06ACBD&currStreakLabel=06ACBD&background=ffffff00&hide_border=true&stroke=ffffff00" alt="GitHub Stats" /> <br/><br/>
+  </p>
+</div>
