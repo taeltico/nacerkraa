@@ -1,4 +1,4 @@
-Hi, I'm [Nacer kraa](https://www.nacerkraa.me) 👋
+<p align=center>  <strong> Hi, I'm [Nacer kraa](https://www.nacerkraa.me) 👋🇬 </strong> <p>
 -------------------------------------------------------------------------------------------------------------------------------
 
 <!--
