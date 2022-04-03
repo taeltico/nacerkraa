@@ -21,9 +21,8 @@ I build things in java (or C# these days)💚..
 - 💬 Ask me about spring mvc, java, c#.
 - 📫 How to reach me: nacerkraa@gmail.com.
 - 😄 Pronouns: kaido.
-<p align=center>  <strong>
-![Profile views](https://komarev.com/ghpvc/?username=nacerkraa&color=008080)
-</strong> </p>
+
+<p align=center>![Profile views](https://komarev.com/ghpvc/?username=nacerkraa&color=008080)</p>
 ## SCORES & BADGES
 
 <img
