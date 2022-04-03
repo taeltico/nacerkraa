@@ -76,8 +76,3 @@ I build things in java (or C# these days)💚..
 <br/>
 <br/>
 
-<div>
-  <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=nacerkraa1903&theme=solarized-dark&theme=leafy&ring=047884&sideNums=06ACBD&dates=06ACBD&currStreakNum=06ACBD&currStreakLabel=06ACBD&background=ffffff00&hide_border=true&stroke=ffffff00" alt="GitHub Stats" /> <br/><br/>
-  </p>
-</div>
