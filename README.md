@@ -23,7 +23,7 @@ I build things in java (or C# these days)💚..
 - 😄 Pronouns: kaido.
 <p align=center>  <strong>
 ![Profile views](https://komarev.com/ghpvc/?username=nacerkraa&color=008080)
-</strong> <p>
+</strong> </p>
 ## SCORES & BADGES
 
 <img
