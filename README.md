@@ -48,8 +48,7 @@ I build things in java (or python these days)💚..
 
 ## My Coding activities
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nacerkraa)](https://github.com/nacerkraa/github-readme-stats)
-
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nacerkraa)](https://github.com/anuraghazra/github-readme-stats)
 
 ## My Portfolio 
 
