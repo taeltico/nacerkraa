@@ -5,7 +5,7 @@
 </p>
 
 <!--
-- this commentaire ....
+- this commentaire .....
 -->
 
 A creative multi-skilled Software Engineer & Developer, Hard worker, and a quick learner seeking a working environment where learning and practicing come together..
