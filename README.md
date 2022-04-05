@@ -8,7 +8,7 @@
 - this commentaire ....
 -->
 
-Student at University Abdelhamid MEHRI Constantine 2, Constantine (Algeria).
+A creative multi-skilled Software Engineer & Developer, Hard worker, and a quick learner seeking a working environment where learning and practicing come together..
 
 I build things in java (or python these days)💚..
 
