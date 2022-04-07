@@ -5,12 +5,7 @@
 </p>
 
 <!--
-- this commentaire .....
--->
-
-A creative multi-skilled Software Engineer & Developer, Hard worker, and a quick learner seeking a working environment where learning and practicing come together..
-
-I build things in java (or python these days)💚..
+- I build things in java (or python these days)💚..
 
 ✨ Highlights ✨
 
@@ -21,6 +16,10 @@ I build things in java (or python these days)💚..
 - 💬 Ask me about spring mvc, java, c#.
 - 📫 How to reach me: nacerkraa@gmail.com.
 - 😄 Pronouns: kaido.
+-->
+
+A creative multi-skilled Software Engineer & Developer, Hard worker, and a quick learner seeking a working environment where learning and practicing come together..
+
 
 <p align=center>  <strong>
 <img src='https://komarev.com/ghpvc/?username=nacerkraa1903&color=008080'>
