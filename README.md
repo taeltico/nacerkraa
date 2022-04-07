@@ -57,7 +57,7 @@ A creative multi-skilled Software Engineer & Developer, Hard worker, and a quick
 
 
 ## Contact Me 
-
+<p align=center>  
 
 <a href="https://www.linkedin.com/in/nacerkraa/">
   <img align="left" alt="Nacer Kraa' LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -74,7 +74,7 @@ A creative multi-skilled Software Engineer & Developer, Hard worker, and a quick
 <a href="https://stackoverflow.com/users/18560794/nacer-kraa">
   <img align="left" alt="Nacer KRAA | Stack Overflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/stackoverflow.svg" />
 </a>
-
+</p>
 <br/>
 <br/>
 
