@@ -58,21 +58,21 @@ A creative multi-skilled Software Engineer & Developer, Hard worker, and a quick
 
 ## Contact Me 
 
-<p align=center>  
+<p align="center">
 <a href="https://www.linkedin.com/in/nacerkraa/">
-  <img align="left" alt="Nacer Kraa' LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="center" alt="Nacer Kraa' LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
   
 <a href="https://www.facebook.com/profile.php?id=100040581967804">
-  <img align="left" alt="Nacer KRAA | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/facebook.svg" />
+  <img align="center" alt="Nacer KRAA | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/facebook.svg" />
 </a>
 
 <a href="https://github.com/nacerkraa">
-  <img align="left" alt="Nacer KRAA | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  <img align="center" alt="Nacer KRAA | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 
 <a href="https://stackoverflow.com/users/18560794/nacer-kraa">
-  <img align="left" alt="Nacer KRAA | Stack Overflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/stackoverflow.svg" />
+  <img align="center" alt="Nacer KRAA | Stack Overflow" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/stackoverflow.svg" />
 </a>
 
 <br/>
