@@ -46,9 +46,14 @@ I build things in java (or python these days)💚..
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nacerkraa&langs_count=8&layout=compact&bg_color=071A2C&text_color=FFFFFF" alt="nace rkraa's top langs"/>
 </p>
 
-## My Coding activities
 
+
+## My Coding activities
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=nacerkraa&theme=dark&hide_border=true&border_radius=20&layout=compact" alt="My Waka stats" />
+
+<!--
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nacerkraa)](https://github.com/anuraghazra/github-readme-stats)
+-->
 
 ## My Portfolio 
 
