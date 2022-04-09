@@ -1,7 +1,7 @@
 ## <p align=center>  <strong> Hi, I'm [Nacer kraa](https://www.nacerkraa.me) 👋 </strong> <p>
 
 <p align=center>  
-  <img src='https://readme-typing-svg.herokuapp.com?font=product+sans&color=06ACBD&center=true&lines=%24%20nacer%20kraa%20-KR%20devloper%20nacerkraa.me&duration=7000'>
+  <img src='https://readme-typing-svg.herokuapp.com?font=product+sans&color=06ACBD&center=true&lines=%24%20nacer%20kraa%20-KR%20devloper%20software engeneer&duration=7000'>
 </p>
 
 <!--
