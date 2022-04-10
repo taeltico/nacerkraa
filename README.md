@@ -15,7 +15,7 @@
 - 🤔 I’m looking for help with react.
 - 💬 Ask me about spring mvc, java, c#.
 - 📫 How to reach me: nacerkraa@gmail.com.
-- 😄 Pronouns: kaido.. ،،،، 
+- 😄 Pronouns: kaido.
 -->
 
 A creative multi-skilled Software Engineer & Developer, Hard worker, and a quick learner seeking a working environment where learning and practicing come together..
