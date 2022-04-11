@@ -18,10 +18,12 @@
 - 😄 Pronouns: kaido.
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nacerkraa)](https://github.com/anuraghazra/github-readme-stats)
+
+-->
+
 ## My Coding activities
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=nacerkraa&theme=dark&hide_border=true&border_radius=20&layout=compact" alt="My Waka stats" />
--->
 
 A creative multi-skilled Software Engineer & Developer, Hard worker, and a quick learner seeking a working environment where learning and practicing come together..
 
